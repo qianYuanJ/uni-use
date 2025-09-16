@@ -137,6 +137,12 @@ export default defineConfig({
 
 - [改动日志](https://uni-helper.github.io/uni-use/CHANGELOG.html)
 
+## 贡献者
+
+<a href="https://github.com/uni-helper/uni-use/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=uni-helper/uni-use" />
+</a>
+
 ## 致谢
 
 - [vueuse](https://vueuse.org/) [#1073](https://github.com/vueuse/vueuse/pull/1073)
